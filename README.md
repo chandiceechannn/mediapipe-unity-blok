@@ -4,7 +4,7 @@ This project connects **Python hand tracking (MediaPipe)** with **Unity** using 
 
 ---
 
-## 🚀 Overview
+## Overview
 
 * Python detects hand movement using MediaPipe
 * Data is sent via UDP
@@ -29,7 +29,7 @@ This project connects **Python hand tracking (MediaPipe)** with **Unity** using 
 
 ## 🧠 File Explanation
 
-### 🐍 Python
+### Python
 
 * `main.py`
   Runs hand tracking and sends data to Unity
@@ -39,7 +39,7 @@ This project connects **Python hand tracking (MediaPipe)** with **Unity** using 
 
 ---
 
-### 🎮 Unity
+###  Unity
 
 * `HandTracking.cs`
   Controls object movement based on hand input
